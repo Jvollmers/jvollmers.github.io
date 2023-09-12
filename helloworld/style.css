@@ -1,0 +1,13 @@
+
+        h1{
+            color: whitesmoke;
+        }
+        body{
+            background-color: black;
+        }
+        #p1{
+            color: whitesmoke;
+            background-color: red;
+            border-color: whitesmoke;
+            border-radius: 20px;
+        }
